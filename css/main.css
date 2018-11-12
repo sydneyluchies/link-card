@@ -32,7 +32,7 @@ html {
   background: #cabdb2;
 }
 
-.link-card strong {
+.link-card h1 {
   font-size: 1.5rem;
   display: block;
   text-align: left;
