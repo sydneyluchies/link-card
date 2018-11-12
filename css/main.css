@@ -3,7 +3,7 @@ html {
   font: normal 100%/1.5 sans-serif;
   position: relative;
   background-color: #f0eee8;
-  font-family: 'Dosis', sans-serif;
+  font-family: Dosis, sans-serif;
   font-size: 1.125rem;
   width: 23rem;
   text-decoration: none;
@@ -16,7 +16,6 @@ html {
 .link-card {
   padding: .4em .75em .3em;
   margin: 0 0 1rem;
-  padding: 1rem;
   text-align: center;
   background-color: #dcd4cd;
   color: #512200;
@@ -67,5 +66,5 @@ footer {
   background-color: #785439;
   border-radius: 8px;
   color: #fff;
-  font-family: 'Dosis', sans-serif;
+  font-family: Dosis, sans-serif;
 }
