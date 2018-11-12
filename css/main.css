@@ -14,8 +14,10 @@ html {
 }
 
 .link-card {
-  padding: 1rem;
-  padding-top: .25rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-bottom: 1rem;
+  padding-top: 0rem;
   margin: 0 0 1rem;
   text-align: center;
   background-color: #dcd4cd;
@@ -39,6 +41,7 @@ html {
   display: block;
   text-align: left;
   font-weight: bold;
+  line-height: 1.65rem;
 }
 
 .link-card dl {
@@ -68,16 +71,16 @@ html {
   font-family: Georgia;
   font-weight: normal;
   text-align: left;
-  padding-bottom: 1rem;
   border-color: #9a816d;
   border-bottom-style: solid;
+  padding-bottom: 1rem;
 }
 
 .link-card span {
   display: inline-block;
-  font-size: 1.25rem;
+  font-size: 1.125rem;
   text-align: center;
-  padding: .5em 1em .75em;
+  padding: .35em .75em .5em;
   background-color: #785439;
   border-radius: 8px;
   color: #fff;
